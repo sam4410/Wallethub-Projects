@@ -1,4 +1,4 @@
-# Docker to host the Login model predicting for 90days window
+# Docker to host the Login model predicting for Best email sent time
 
 The docker is hosting a gradient boosting model developed using scikit-learn library. The docker is created using a frame-work provided by Sagemaker.
 
